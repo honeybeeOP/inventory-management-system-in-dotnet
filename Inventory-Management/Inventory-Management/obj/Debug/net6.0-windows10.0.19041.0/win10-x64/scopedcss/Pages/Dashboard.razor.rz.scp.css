@@ -1,0 +1,17 @@
+main[b-vwwyeolz4t] {
+    display: block;
+    position: relative;
+}
+
+    main > h3[b-vwwyeolz4t] {
+        padding-top: 20px;
+        font-size: 25px;
+        font-weight: bold;
+        color: #241a1b;
+    }
+    
+    
+    main > h6[b-vwwyeolz4t]{
+        font-size: 15px;
+        padding-top: 15px;
+    }
